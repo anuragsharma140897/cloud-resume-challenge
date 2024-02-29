@@ -2,7 +2,6 @@
 let getAbout = document.getElementById("getAbout");
 let getResume = document.getElementById("getResume");
 let getContact = document.getElementById("getContact");
-let getAshish = document.getElementById("getAshish");
 
 // Sections
 let about = document.getElementById("about");
@@ -47,10 +46,11 @@ getContact.addEventListener('click', function (e) {
 })
 
 
-const counter = document.querySelector(".counter-number");
+const counter = document.getElementById("counter1");
 async function updateCounter() {
 let response = await fetch("https://aikyrgey7pedtn6ezbu633l4hq0eqgvr.lambda-url.us-east-1.on.aws/"); 
 let data = await response.json();
-counter.innerHTML = 'Views: ${data}';
+counter.innerHTML = `Views: ${data}`;
+console.log(data)
 }
 updateCounter();
