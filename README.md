@@ -1,6 +1,7 @@
 Hosting a static website on AWS using-
 AWS S3, AWS Lambda, AWS Cloudfront, AWS ACM, AWS ROUTE 53, AWS Dynamo DB, AWS IAM, Terraform, Github, YAML.
 
+
 1- Static Website Deployment: Uploaded the website's files to an S3 bucket. Utilized AWS CloudFront as a content delivery network (CDN) to distribute content globally.
 
 2- HTTPS Setup with ACM and CloudFront: Secured the website using HTTPS by provisioning an ACM certificate and associating it with the CloudFront distribution.
@@ -17,6 +18,7 @@ AWS S3, AWS Lambda, AWS Cloudfront, AWS ACM, AWS ROUTE 53, AWS Dynamo DB, AWS IA
    changes are pushed to the GitHub repository.
 
 8- Infrastructure as Code (IaC) with Terraform: Defined the complete front end and Back end infrastructure required for hosting the website using Terraform.
+
 
    By combining these technologies and services, i have efficiently deployed, managed a static website on AWS, ensuring security, reliability, and seamless user experience.
   
