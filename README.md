@@ -1,5 +1,5 @@
 Hosting a static website on AWS using-
-AWS S3, AWS Lambda, AWS Cloudfront, AWS ACM, AWS ROUTE 53,AWS IAM, Terraform, Github, YAML.
+AWS S3, AWS Lambda, AWS Cloudfront, AWS ACM, AWS ROUTE 53, AWS Dynamo DB, AWS IAM, Terraform, Github, YAML.
 
 1- Static Website Deployment: Uploaded the website's files to an S3 bucket. Utilized AWS CloudFront as a content delivery network (CDN) to distribute content globally.
 
@@ -9,7 +9,7 @@ AWS S3, AWS Lambda, AWS Cloudfront, AWS ACM, AWS ROUTE 53,AWS IAM, Terraform, Gi
 
 4- View Count Functionality with Lambda: Deployed a Lambda function using Python script to count website views and display them on the website.
 
-5- Storing view count in Dynamo DB- Dynamo DB with store the website view count.
+5- Storing view count in Dynamo DB Database: Dynamo DB with store the website view count.
 
 6- Version Control with Git: used to track changes to the website's codebase using Git. This allowed us for collaboration and version management.
 
