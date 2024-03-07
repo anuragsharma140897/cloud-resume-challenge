@@ -1,5 +1,5 @@
 Hosting a static website on AWS using-
-AWS S3, AWS Lambda, AWS Cloudfront, AWS ACM, AWS ROUTE 53, AWS Dynamo DB, AWS IAM, Terraform, Github, YAML.
+AWS S3, AWS Lambda, AWS Cloudfront, AWS ACM, AWS ROUTE 53, AWS Dynamo DB, AWS IAM, Terraform, Github, Github Actions YAML.
 
 
 1- Static Website Deployment: Uploaded the website's files to an S3 bucket. Utilized AWS CloudFront as a content delivery network (CDN) to distribute content globally.
