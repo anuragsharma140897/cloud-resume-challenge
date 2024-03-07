@@ -14,7 +14,7 @@ AWS S3, AWS Lambda, AWS Cloudfront, AWS ACM, AWS ROUTE 53, AWS Dynamo DB, AWS IA
 
 * View Count Functionality with Lambda: Deployed a Lambda function using Python script to count website views and display them on the website.
 
-* Storing view count in Dynamo DB Database: Dynamo DB with store the website view count.
+* Storing view count in Dynamo DB Database: Dynamo DB which stores the website view count.
 
 * Version Control with Git: used to track changes to the website's codebase using Git. This allowed us for collaboration and version management.
 
