@@ -22,7 +22,7 @@ AWS S3, AWS Lambda, AWS Cloudfront, AWS ACM, AWS ROUTE 53, AWS Dynamo DB, AWS IA
   the S3 bucket whenever changes are pushed to the GitHub repository.
 
 * Infrastructure as Code (IaC) with Terraform: Defined the complete front end and Back end infrastructure required for hosting the website using Terraform.
-* 
+
 
 
    By combining these technologies and services, i have efficiently deployed, managed a static website on AWS, ensuring security, reliability, and seamless user experience.
