@@ -21,8 +21,8 @@ AWS S3, AWS Lambda, AWS Cloudfront, AWS ACM, AWS ROUTE 53, AWS Dynamo DB, AWS IA
 
 
    By combining these technologies and services, i have efficiently deployed, managed a static website on AWS, ensuring security, reliability, and seamless user experience.
-  
 
+   ![Cloud resume challenge](https://github.com/anuragsharma140897/cloud-resume-challenge/assets/51899001/b16bbecc-3dca-4968-96e7-cf5b7c2d814d)
 
 
 
