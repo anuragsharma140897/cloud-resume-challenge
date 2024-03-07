@@ -9,12 +9,14 @@ AWS S3, AWS Lambda, AWS Cloudfront, AWS ACM, AWS ROUTE 53,AWS IAM, Terraform, Gi
 
 4- View Count Functionality with Lambda: Deployed a Lambda function using Python script to count website views and display them on the website.
 
-5- Version Control with Git: used to track changes to the website's codebase using Git. This allowed us for collaboration and version management.
+5- Storing view count in Dynamo DB- Dynamo DB with store the website view count.
 
-6- Continuous Integration and Continuous Deployment (CI/CD) with GitHub Actions: Automated the deployment process using GitHub Actions. Defined workflows in YAML files to trigger updates to the S3 bucket whenever 
+6- Version Control with Git: used to track changes to the website's codebase using Git. This allowed us for collaboration and version management.
+
+7- Continuous Integration and Continuous Deployment (CI/CD) with GitHub Actions: Automated the deployment process using GitHub Actions. Defined workflows in YAML files to trigger updates to the S3 bucket whenever 
    changes are pushed to the GitHub repository.
 
-7- Infrastructure as Code (IaC) with Terraform: Defined the complete front end and Back end infrastructure required for hosting the website using Terraform.
+8- Infrastructure as Code (IaC) with Terraform: Defined the complete front end and Back end infrastructure required for hosting the website using Terraform.
 
    By combining these technologies and services, i have efficiently deployed, managed a static website on AWS, ensuring security, reliability, and seamless user experience.
   
